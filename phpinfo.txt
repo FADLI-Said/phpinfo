@@ -1,4 +1,4 @@
-xdebug taylor
+xdebug tailor
 
 https://xdebug.org/wizard
 
